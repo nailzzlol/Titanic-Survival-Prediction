@@ -4,7 +4,7 @@
 
 This project uses machine learning to predict whether a passenger survived the Titanic disaster, based on features like gender, age, fare, and class.
 
----
+LINK TO OUR VIDEO PRESENTATION : https://drive.google.com/file/d/1J96UR-BSUVMvJdOkLB41eio4DwfbZsAC/view?usp=sharing
 
 ### 📊 Dataset
 We used the Titanic dataset from [Kaggle](https://www.kaggle.com/competitions/titanic/data), which includes features such as:
